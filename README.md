@@ -2,26 +2,26 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # FIRST NEXT APP:
 
-Hi therex.
-I will show to you about first next.js project I made. here I make store app like e-commerce but not same like it. Yeah about I think 30% same like e-commerce.. :v
+Hi there.
+I'll show you about the next.js project I made. here I make a store app like e-commerce but not the same as it. Yeah about I think 30% the same like e-commerce.. :v
 
-# What the feature?:key:
+# What is the feature?:key:
 
-for now this application have 2 section, what it is:
+for now, this application has 2 sections, what it is:
 A. Admin Dashboard
-as we know here make admin can Create, Read, Update, Delete data.
+as we know here make admin can Create, Read, Update, and Delete data.
 
 B. Customer
-For now customer just look around prodcut in the website.
+For now, customers just look around for products on the website.
 
 # Get from where data product?
 
-Here I have 2 product, Shoes and Clothes
+Here I have 2 products, Shoes and Clothes
 
-1.  For shoes data come from my database wich is from input by admin
+1.  For shoes data comes from my database which is from input by the admin
 2.  and clothes I get from public API (https://unsplash.com/developers)
 
-and I must thank you to unsplash for the API because make me fast create this project :D
+and I must thank you to Unsplash for the API because made me fast create this project :D
 
 # Tech Stack?
 
