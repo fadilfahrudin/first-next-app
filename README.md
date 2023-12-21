@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # FIRST NEXT APP:
 
+![Alt text](public/images/app.png)
+Hi there.
+I'll show you about the next.js project I made. here I make a store app like e-commerce but not the same as it. Yeah about I think 30% the same as e-commerce.. :v
+
 ![ ![Alt text](<src/assets/img/shose--unsplash- (1).jpg>)](src/assets/img/app.png)
 Hi there.
 I'll show you about the next.js project I made. here I make a store app like e-commerce but not the same as it. Yeah about I think 30% the same as e-commerce.. :v
