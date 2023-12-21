@@ -33,6 +33,13 @@ and I must thank you Unsplash for the API because made me quickly create this pr
 5.  Sequelize
 6.  and Typescript
 
+# Next development ?
+
+1. Add Auth
+2. Detail Product
+3. Shopping Cart
+4. Add Payment Methode
+
 ## Getting Started
 
 First, run the development server:
