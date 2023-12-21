@@ -8,6 +8,7 @@ I'll show you about the next.js project I made. here I make a store app like e-c
 # What is the feature? :key:
 
 for now, this application has 2 sections, what it is:
+
 A. Admin Dashboard
 as we know here make admin can Create, Read, Update, and Delete data.
 
