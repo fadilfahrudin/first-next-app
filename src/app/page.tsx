@@ -30,14 +30,14 @@ export default async function Home() {
                 <p className="text-3xl text-dark-75  cursor-default absolute left-[10%] top-[45%] w-1/2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita numquam, sint ipsam natus explicabo.</p>
                 <img src="/images/baju-dummy.jpg" alt="banner-baju" width={'100%'} height={'100%'} className="aspect-[9/3] object-cover object-left-bottom" />
             </div>
-            <div className="flex w-[100%] justify-between gap-6">
-                <div className="w-[80%] h-[400px] overflow-hidden rounded-lg relative">
+            <div className="flex w-[100%] h-[400px] overflow-hidden justify-between gap-6">
+                <div className="w-[80%] h-[100%] overflow-hidden rounded-lg relative">
                     <h1 className="text-4xl text-dark-100 font-bold cursor-default absolute left-[10%] top-[10%]">Sepatu Keren</h1>
                     <p className="text-2xl text-dark-75  cursor-default absolute left-[10%] top-[20%] w-2/3">Lorem ipsum dolor sit amet consectetur.</p>
                     <Link href={'/products/c/sepatu'} className="text-dark-75 font-bold hover:text-dark-50   absolute left-[10%] top-[40%] cursor-pointer">See more</Link>
-                    <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/95526a28-5170-4f8e-ad59-37bc2395e8d8/air-trainer-1-shoes-ZLtGj0.png" alt="Nike" width={'100%'} height={'100%'} className="aspect-[3/2] object-cover object-center" />
+                    <img src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/95526a28-5170-4f8e-ad59-37bc2395e8d8/air-trainer-1-shoes-ZLtGj0.png" alt="Nike" width={'100%'} height={'100%'} className="aspect-[4/3] object-cover object-center" />
                 </div>
-                <div className="flex gap-5 w-[100%]">
+                <div className="flex gap-5 w-[100%]  overflow-hidden">
                     {data2.results.map((product: any) => (
                         <div key={product.id} className="w-[100%] h-[400px] shrink-2 grow-1 bg-white flex flex-col p-2 rounded-lg overflow-hidden">
                             <Image src={product.urls.regular} alt={product.description} width={400} height={200} className="aspect-[5/4] rounded-lg object-cover object-center overflow-hidden" />
