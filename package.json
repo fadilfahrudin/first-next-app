@@ -9,19 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@flaticon/flaticon-uicons": "^3.0.0",
+    "axios": "^1.6.2",
+    "firebase": "^10.7.0",
+    "mysql2": "^3.6.5",
+    "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.3"
+    "sequelize": "^6.35.1"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@reduxjs/toolkit": "^2.0.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
-    "postcss": "^8",
-    "tailwindcss": "^3.3.0",
     "eslint": "^8",
-    "eslint-config-next": "14.0.3"
+    "eslint-config-next": "14.0.3",
+    "postcss": "^8",
+    "react-redux": "^9.0.4",
+    "sequelize-cli": "^6.6.2",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
   }
 }
