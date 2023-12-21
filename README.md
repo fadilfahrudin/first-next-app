@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 Hi there.
 I'll show you about the next.js project I made. here I make a store app like e-commerce but not the same as it. Yeah about I think 30% the same as e-commerce.. :v
 
-# What is the feature?key:
+# What is the feature? :key:
 
 for now, this application has 2 sections, what it is:
 A. Admin Dashboard
